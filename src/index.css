@@ -2,3 +2,7 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 @import 'flowbite/dist/flowbite.css';
+
+.display-linebreak {
+    white-space: pre-line;
+  }
